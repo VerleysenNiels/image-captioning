@@ -1,6 +1,8 @@
 # Image captioning
 As an example of how to apply transformers in practice I wanted to make a few examples showcasing different tasks. This task being the captioning of images, which is quite easy to do as there are a lot of pretrained models available. As I also wanted to show the finetuning process a bit, I will also make an example where the model predicts the used prompt to recreate the image that is shown, with a stable diffusion model.
 
+![Demonstration of the image captioning model used in this repository](https://github.com/VerleysenNiels/image-captioning/blob/master/demo/general_captioning.gif?raw=true)
+
 ## What are transformers?
 Not sure what transformers are or how they work? No worries I've got you covered with [this repository.](https://github.com/VerleysenNiels/transformers-pytorch)
 Definitely also read the recommended papers to get a better understanding.
