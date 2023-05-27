@@ -22,6 +22,8 @@ For this specific repository I am using the [diffusiondb](https://huggingface.co
 
 For the model I settled with a [ViT-GPT-2 model](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning) which was pretrained for general purpose image captioning.
 
+Note: I've not actually trained this model yet, as server resources are currently occupied with commercial projects.
+
 ## Other examples
 This project is part of a bundle of three sideprojects focused on using transformers from HuggingFace in practice.
 
