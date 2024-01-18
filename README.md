@@ -25,8 +25,5 @@ For the model I settled with a [ViT-GPT-2 model](https://huggingface.co/nlpconne
 Note: I've not actually trained this model yet, as server resources are currently occupied with commercial projects.
 
 ## Other examples
-This project is part of a bundle of three sideprojects focused on using transformers from HuggingFace in practice.
-
 - [arXiv summarizer](https://github.com/VerleysenNiels/arxiv-summarizer) 
 - [Image captioning](https://github.com/VerleysenNiels/image-captioning) (this repository)
-- [Historical map segmentation]() (coming soon)
